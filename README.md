@@ -1,10 +1,14 @@
 
 <h1 align="center">Hi there 👋, I'm [Satya] 👨‍💻</h1> 
 <h3 align="center">A passionate developer</h3>  
-- 🔭 I’m currently working on Node.js projects
-- 🌱 I’m currently learning devops
-- 💬 Ask me about anything you wish
+- 🔭 I’m currently working on projects based on NODE.JS
+<br>
+- 🌱 I’m currently learning Devops.
+<br>
+- 💬 Ask me about anything you wish.
+<br>
 - 📫 How to reach me: satyaprakashdas1999@gmail.com
+<br>
 <!-- Social Media Handles -->
 <h3 align="left">Connect with me:</h3>  
 
