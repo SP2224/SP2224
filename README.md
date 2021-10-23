@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer</h3>  
   
 <!-- Social Media Handles -->
-
+<h3 align="left">Connect with me:</h3>  
 
 
 <a href="https://github.com/SP2224" target="_blank"> ![Github: SATYA](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)</a>
