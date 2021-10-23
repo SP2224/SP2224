@@ -20,6 +20,7 @@
 <a href="https://www.torproject.org/" target="_blank"> <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" alt="Tor" /> </a>
 </p>  
   
+ ![Harsh GitHub stats](https://github-readme-stats.vercel.app/api?username=SP2224&count_private=true&title_color=39FF14&show_icons=true&icon_color=ADD8E6&theme=dracula&hide_rank=false&custom_title=@hashfx-Github-stats)
 
 
 
