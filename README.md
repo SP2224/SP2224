@@ -2,12 +2,6 @@
 <h1 align="center">Hi there 👋, I'm [Satya] 👨‍💻</h1> 
 <h3 align="center">A passionate developer</h3>  
   
-- 🔭 I’m currently working on Node.js projects
-- 🌱 I’m currently learning devops
-- 💬 Ask me about anything you wish
-- 📫 How to reach me: satyaprakashdas1999@gmail.com
- 
-
 <!-- Social Media Handles -->
 <h3 align="left">Connect with me:</h3>  
 
@@ -29,7 +23,7 @@
  ![Satya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SP2224&count_private=true&title_color=39FF14&show_icons=true&icon_color=ADD8E6&theme=dracula&hide_rank=false&custom_title=@SP2224-Github-stats)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SP2224&theme=react&custom_title=Most-Used-Languages)](https://github.com/SP2224/github-readme-stats) 
 
 
 
