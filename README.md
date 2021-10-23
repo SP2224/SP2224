@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋, I'm [Satya] 👨‍💻</h1> 
 <h3 align="center">A passionate developer</h3>  
-  - 🔭 I’m currently working on Node.js projects
+- 🔭 I’m currently working on Node.js projects
 - 🌱 I’m currently learning devops
 - 💬 Ask me about anything you wish
 - 📫 How to reach me: satyaprakashdas1999@gmail.com
