@@ -6,7 +6,7 @@
 <br>
 - 💬 Ask me about anything you wish.
 <br>
-- 📫 How to reach me: satyaprakashdas1999@gmail.com
+- 📫 How to reach me: <link>satyaprakashdas1999@gmail.com</link>
 <br>
 <!-- Social Media Handles -->
 <h3 align="left">Connect with me:</h3>  
