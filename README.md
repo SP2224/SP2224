@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm [Satya] 👨‍💻</h1> 
-<h3 align="center">A passionate developer</h3>  
-- 🔭 I’m currently working on projects based on NODE.JS
+<h3 align="center">A passionate Java dev</h3>  
+- 🔭 I’m currently working as an Intern.
 <br>
-- 🌱 I’m currently learning Devops.
+- 🌱 I’m currently learning and implementing stuffs on Java Full Stack
 <br>
 - 💬 Ask me about anything you wish.
 <br>
