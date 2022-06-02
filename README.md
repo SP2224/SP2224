@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm [Satya] 👨‍💻</h1> 
 <h3 align="center">A passionate Java dev</h3>  
-- 🔭 I’m currently working as an Intern.
+- 🔭 I’m currently working as a Software Engineer.
 <br>
 - 🌱 I’m currently learning and implementing stuffs on Java Full Stack
 <br>
